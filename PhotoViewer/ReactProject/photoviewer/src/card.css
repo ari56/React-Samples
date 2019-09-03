@@ -1,0 +1,17 @@
+#detailDialogTitle{
+    padding-bottom: 8px;
+  }
+  
+  #detailDialog{
+    padding-bottom: 26px;
+  }
+  
+
+.image-title{
+  text-align: center;
+  padding: 3px;
+}
+
+.errDialogButtonOk{
+  margin: 0 auto;
+}

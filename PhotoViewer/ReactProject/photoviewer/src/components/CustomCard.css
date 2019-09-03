@@ -1,0 +1,58 @@
+
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.cardMedia {
+  padding-top: 56.25%;
+  border-radius: 4px;
+}
+
+.cardMediaDialog {
+  padding-top: 96%;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.cardContent {
+  flex-grow: 1;
+}
+
+.chip{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 90px;
+  margin : 4px;
+}
+
+.chipBack {
+  float: inline-start;
+}
+
+.chipNext {
+  float: inline-end;
+}
+
+.dialogInner{
+  padding-bottom: 5px;
+}
+
+.detailDialogTitle{
+  padding-bottom: 8px;
+}
+
+.detailDialog{
+  padding-bottom: 26px;
+}
+  
+.imageTitle{
+  text-align: center;
+  padding: 3px;
+}
+
+.errDialogButtonOk{
+  margin: 0 auto;
+}

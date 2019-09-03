@@ -1,0 +1,50 @@
+.header{
+  margin-top: 7px;
+}
+
+#btnCate{
+  max-width: 960px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 32px;
+  padding-right: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.colorBtn>button{
+  height: 44.25px;
+  width: 54.25px;
+  border-radius: 4px;
+}
+
+.btnBlue>span{
+  background-color: #303f9f;
+}
+
+.btnRed>span{
+  background-color: red;
+}
+
+.btnBlack>span{
+  background-color: black;
+}
+
+.btnWhite>span{
+  background-color: white;
+} 
+
+
+#dataDetail{
+  display: none;
+}
+
+.labelMemo{
+  padding-left: 28px;
+  color: #303f9f;
+}  
+.labelBold{
+
+  color: #303f9f;
+}  
